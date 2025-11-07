@@ -1,2 +1,14 @@
-# WEB-DESIGN
-Programs
+#WEB-DESIGN
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>HEADER</title>
+    
+  </head>
+  <body>
+    <h1>HEADING 1</h1>
+      <h2>HEADING 2</h2>
+        <h3>HEADING 3</h3>
+          <h4>HEADING 4</h4>
+  </body>
+</html>
